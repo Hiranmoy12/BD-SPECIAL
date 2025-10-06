@@ -1,4 +1,4 @@
-# Tanisha Birthday Site
+# GF Birthday Site
 
 A simple two-page site for a special birthday:
 - Page 1: Countdown to October 13. When it hits 0, shows “HAPPY BIRTHDAY” and a “Click Next” button.
@@ -27,3 +27,4 @@ Project structure
 - js/message.js        # Typewriter effect for the message
 - js/common.js         # Shared bubble generation logic
 - assets/bubbles.mp4   # (Optional) your background video
+
